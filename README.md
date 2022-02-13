@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mateusz
+👋 Hi, I’m Mateusz
 - 👀 I’m interested in programming, Data Science, chess and cycling
 - 🌱 I’m currently learning Pyhon and Java
 - 📫 How to reach me mati.16.potasnik@gmail.com
